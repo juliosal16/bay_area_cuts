@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.homeBox{
+  width: 100%;
+  height: 100vh;
+  margin:20px auto;
+  background-image: url(../../img/barber.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 20%;
+  margin-bottom: 10%;
+}
+
+.homeBox > h2{
+  font-size: 10rem;
+  text-shadow: rgb(0, 0, 0) 10.5px 0 10px;
+  background-color: rgba(0, 0, 0, 0.062);
+  /* font-family: "Bangers", system-ui; */
+  font-weight: 400;
+  font-style: normal;
+}

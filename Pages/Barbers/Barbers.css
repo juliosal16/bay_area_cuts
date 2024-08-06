@@ -1,0 +1,57 @@
+.barberBox{
+  width: 85%;
+  margin: 0px auto;
+  height: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  flex-wrap: wrap;
+}
+
+.barberImg{
+  object-fit: cover;
+  border: 5px solid white;
+  border-radius: 3%;
+  height: 60vh;
+  width: 40vh;
+  margin: 2%;
+}
+
+.barberTxt{
+  font-size: 7rem;
+}
+
+
+
+@media (max-width: 760px) {
+  .barberTxt {
+    font-size: 3.5rem;
+  }
+
+  .barberImg {
+    width: 80%; 
+    max-width: 250px; 
+  }
+}
+
+.card {
+  width: 350px;
+  margin: auto;
+  text-align: center;
+  border: 3px solid grey;
+  margin-top: 3%;
+}
+
+.barberTitle {
+  color: grey;
+  font-size: 18px;
+}
+
+.cardImg{
+  height: 360px;
+  padding: 10px;
+  object-fit: cover;
+}
+
+

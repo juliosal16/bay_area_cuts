@@ -1,0 +1,21 @@
+ul, li{
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+.centerTxt{
+  text-align: center;
+}
+
+.centerTxt > h1{
+  font-size: 3.5rem;
+}
+
+li{
+  margin-top: 3%;
+  font-size: 20px;
+}
+
+.serviceTxt{
+  font-size: 2rem;
+}

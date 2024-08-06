@@ -1,0 +1,7 @@
+.quoteBox{
+  width: 100%;
+  padding: 100px; 
+  margin-top: 10%;
+  margin-bottom: 5%;
+  background-image: linear-gradient(to right top, #370605, #7a5d00, #6e4100, #571e09, #370e05);
+}

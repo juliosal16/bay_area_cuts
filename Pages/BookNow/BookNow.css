@@ -1,0 +1,54 @@
+input, select, option{
+  color: violet;
+}
+
+.bookNowBox{
+  margin: 5% auto;
+  height: 75vh;
+  width: 75%;
+  background-color: rgb(79, 80, 81);
+  padding: 3%;
+  border-radius: 12px;
+}
+
+.bookNowInput{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 60%;
+  margin: 0px auto;
+  margin-bottom: 5%;
+}
+
+.bookNowInput > input {
+  height: 4vh;
+  width: 35%;
+  border: none;
+  color: black;
+}
+
+.inputDropDown{
+  margin: 0px auto;
+  width: 45%;
+  margin: 0px auto;
+}
+
+.bookNowBtn{
+  color: black;
+  font-size: 18px;
+  border: none;
+  margin: 0px auto;
+  text-align: center;
+  width: 28vh;
+  padding: 3px;
+}
+
+.bookButton{
+  width: 30%; 
+  margin-left: 40%; 
+  margin-top: 5%;
+  background-color: white;
+  color: black; 
+  border: none;
+  margin-bottom: 3%;
+}
